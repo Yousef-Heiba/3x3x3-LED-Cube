@@ -32,6 +32,8 @@ The LED cube is organized into:
 This wiring structure allows individual LEDs to be controlled using a combination of one column and one layer.
 
 ![Image of Built Cube](images/3x3x3LEDCube.jpg)
+
+![YouTube link to a demo of the LED Cube](https://youtu.be/3BqOHWZCeeA)
 ---
 
 ## 💡 How the LED Cube Works
