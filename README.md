@@ -31,6 +31,7 @@ The LED cube is organized into:
 
 This wiring structure allows individual LEDs to be controlled using a combination of one column and one layer.
 
+![Image of Built Cube](images/3x3x3LEDCube.jpg)
 ---
 
 ## 💡 How the LED Cube Works
@@ -66,7 +67,7 @@ A full schematic diagram showing:
 - Buzzer
 - Arduino pin mappings  
 
-is included in this repository for reference.
+![Schematic Diagram of LED Cube](images/schematic.png)
 
 ---
 
