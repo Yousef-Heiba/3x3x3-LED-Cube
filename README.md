@@ -33,7 +33,10 @@ This wiring structure allows individual LEDs to be controlled using a combinatio
 
 ![Image of Built Cube](images/3x3x3LEDCube.jpg)
 
-![YouTube link to a demo of the LED Cube](https://youtu.be/3BqOHWZCeeA)
+---
+## 🎥 Demo
+[![3×3×3 LED Cube Demo](https://img.youtube.com/vi/3BqOHWZCeeA/0.jpg)](https://www.youtube.com/watch?v=3BqOHWZCeeA)
+
 ---
 
 ## 💡 How the LED Cube Works
